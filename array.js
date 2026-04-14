@@ -10,3 +10,7 @@ frutas.push("Pessego"); //Adiciona um item elemento no final
 frutas.unshift("Pera");
 console.log(frutas);
 console.log(frutas.lenght);
+
+frutas[3] = "Abacate";
+frutas.push("Melão");
+console.log(frutas);
